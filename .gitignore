@@ -1,0 +1,7 @@
+# Ignore Python cache & build files
+__pycache__/
+.gitignore
+
+# Ignore virtual environments
+.venv
+.idea
